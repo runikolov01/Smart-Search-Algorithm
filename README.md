@@ -38,9 +38,31 @@ DB_PASSWORD=your-database-password
 DB_NAME=your-database-name
 
 ## 4. Create the Database
-Run the following creatingTables.sql file to set up your MySQL database and tables.
+- Run creatingTables.sql file to set up your MySQL database and tables.
 
 ## 5. Run the Application
-To use the smart search algorithm, run the following command:
+- To use the smart search algorithm, run the following command:
 
 node algorithm.js "your search term"
+
+## 6. Examples
+
+- node algorithm.js "McDonald's"
+<br>
+![image](https://github.com/user-attachments/assets/a3e3c632-77dc-44a2-870f-ec58c8d8cc14)
+
+
+- node algorithm.js "sushi in London"
+<br>
+![image](https://github.com/user-attachments/assets/fa987507-4272-446b-ae6f-d52976370f8d)
+
+- 
+<br>
+
+
+- node algorithm.js "sushi in London or manchester"
+<br>
+![image](https://github.com/user-attachments/assets/f2d27438-5e78-4153-a131-39894cae9d4a)
+
+
+
