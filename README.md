@@ -51,18 +51,26 @@ node algorithm.js "your search term"
 <br>
 ![image](https://github.com/user-attachments/assets/a3e3c632-77dc-44a2-870f-ec58c8d8cc14)
 
+- node algorithm.js "McDonald's in London"
+<br>
+![image](https://github.com/user-attachments/assets/f2fcf3b5-7aac-467e-a8bb-3dc17739a387)
+
+
+- node algorithm.js "vegan sushi in London"
+<br>
+![image](https://github.com/user-attachments/assets/6fee418d-c7b7-4740-8180-165548a37dd0)
+
+- node algorithm.js "veg london"
+<br>
+![image](https://github.com/user-attachments/assets/6782fc8a-2f4c-43d8-84ce-8fabe367fdc2)
+
+
+- node algorithm.js "McDonald's in London or Manchester"
+<br>
+![image](https://github.com/user-attachments/assets/7cbd8131-17fe-4835-a141-e8bc72e9829a)
+
 
 - node algorithm.js "sushi in London"
 <br>
 ![image](https://github.com/user-attachments/assets/fa987507-4272-446b-ae6f-d52976370f8d)
-
-- 
-<br>
-
-
-- node algorithm.js "sushi in London or manchester"
-<br>
-![image](https://github.com/user-attachments/assets/f2d27438-5e78-4153-a131-39894cae9d4a)
-
-
 
