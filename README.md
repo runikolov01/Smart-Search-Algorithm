@@ -45,7 +45,7 @@ DB_NAME=your-database-name
 - Download and run the file "seedingTables.sql" to populate the data.
 
 ## 6. Run the Application
-- To use the smart search algorithm, run the following command:
+- To use the smart search algorithm, run the following command in the terminal of Visual Studio Code:
 
 node algorithm.js "your search term"
 
