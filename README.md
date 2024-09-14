@@ -37,19 +37,15 @@ DB_PASSWORD=your-database-password
 <br>
 DB_NAME=your-database-name
 
-## 4. Create the Database
-- Run "creatingTables.sql" file to set up your MySQL database and tables.
-
-## 5. Seed the Database
-- Download the text files "brands.txt", "cities.txt", "diets.txt" and "dishtypes.txt".
-- Download and run the file "seedingTables.sql" to populate the data.
-
-## 6. Run the Application
+## 4. Create and seed the Database
+- Open "exported_db" folder and run the files: "search_algorithm_brands.sql", "search_algorithm_cities.sql", "search_algorithm_diets.sql", "search_algorithm_dish_types.sql".
+  
+## 5. Run the Application
 - To use the smart search algorithm, run the following command in the terminal of Visual Studio Code:
 
 node algorithm.js "your search term"
 
-## 7. Examples
+## 6. Examples
 
 - node algorithm.js "McDonald's"
 ![image](https://github.com/user-attachments/assets/a3e3c632-77dc-44a2-870f-ec58c8d8cc14)
